@@ -13,7 +13,7 @@ Trong thập kỷ qua, ô nhiễm không khí đã trở thành một vấn đ�
 
 ### Phần mềm
 - Arduino IDE ([tải tại đây](https://www.arduino.cc/en/software))
-- Ứng dụng hoặc nền tảng nhận dữ liệu (như Blynk, ThingSpeak)
+- Ứng dụng hoặc nền tảng nhận dữ liệu (Blynk)
 - Hệ điều hành: Windows, macOS, hoặc Linux
 
 ### Thư viện
